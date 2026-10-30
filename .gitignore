@@ -1,0 +1,8 @@
+
+bin/
+obj/
+students.db
+*.db-shm
+*.db-wal
+.vs/
+students.txt
